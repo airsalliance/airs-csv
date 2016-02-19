@@ -1,0 +1,8 @@
+﻿Phone,Confidential,ReasonWithheld,Description,Type,Function,TollFree,Department,CountryPrefix,FK_Contact
+String,true,String,String,String,String,true,String,String,1
+String,true,String,String,String,String,true,String,String,2
+String,true,String,String,String,String,true,String,String,3
+String,true,String,String,String,String,true,String,String,4
+String,true,String,String,String,String,true,String,String,5
+String,true,String,String,String,String,true,String,String,6
+String,true,String,String,String,String,true,String,String,7

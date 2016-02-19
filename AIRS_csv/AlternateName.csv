@@ -1,0 +1,3 @@
+﻿AlternateName,Confidential,Description,FK_Agency,FK_Site
+String,true,String,1,
+String,true,String,,1

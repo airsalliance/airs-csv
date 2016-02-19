@@ -1,0 +1,2 @@
+﻿ID,AgencyID,Title,Description,Directions,CrossStreet,Email,DisabilitiesAccess,PhysicalLocationDescription,BusServiceAccess,Status,PublicAccessToTransportation,ExcludeFromWebsite,ExcludeFromDirectory,
+String,String,String,String,String,String,A@A.AA,String,String,String,active,true,true,true,

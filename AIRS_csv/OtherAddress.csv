@@ -1,0 +1,2 @@
+﻿AddressID,Line1,Line2,City,County,State,ZipCode,Country,Confidential,Description,ReasonWithheld,IsMainAgencyAddress,IsPhysicalAddress,IsMailingAddress,FK_Site
+String,String,String,String,String,String,String,String,true,String,String,true,true,true,1

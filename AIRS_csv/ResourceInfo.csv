@@ -1,0 +1,5 @@
+﻿ResourceSpecialist,AvailableForDirectory,AvailableForReferral,AvailableForResearch,DateAdded,DateLastVerified,DateOfLastAction,LastActionType,FK_Agency,FK_Service,FK_ServiceGroup,FK_SiteService
+String,true,true,true,1957-08-13,1957-08-13,1957-08-13,String,1,,,
+String,true,true,true,1957-08-13,1957-08-13,1957-08-13,String,,1,,
+String,true,true,true,1957-08-13,1957-08-13,1957-08-13,String,,,,1
+String,true,true,true,1957-08-13,1957-08-13,1957-08-13,String,,,1,

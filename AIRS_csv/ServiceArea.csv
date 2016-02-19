@@ -1,0 +1,2 @@
+﻿Name,ZipCode,CensusTract,City,County,State,Country,Description,CustomAreaLabel,FK_SiteService
+String,String,String,String,String,String,String,String,String,1
