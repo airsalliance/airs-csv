@@ -1,8 +1,0 @@
-﻿ID,ResourceID,FieldName,PreviousValue,UpdatedBy,FK_Agency,FK_MailingAddress,FK_OtherAddress,FK_PhysicalAddress,FK_Service,FK_Site,FK_SiteService
-String,String,String,String,String,1,,,,,,
-String,String,String,String,String,,1,,,,,
-String,String,String,String,String,,,,1,,,
-String,String,String,String,String,,,1,,,,
-String,String,String,String,String,,,,,,1,
-String,String,String,String,String,,,,,1,,
-String,String,String,String,String,,,,,,,1

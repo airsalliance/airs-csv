@@ -1,2 +1,2 @@
-﻿AgencyID,VendorInternalID,AgencyName,Description,Email,TaxStatus,ExcludeFromWebsite,YearIncorporated,FEIN,AgencyOffersService,
-String,String,String,String,A@A.AA,String,true,String,String,String,
+﻿AgencyID,VendorInternalID,AgencyName,Description,AlternateName,Confidential,Description,Phone,Confidential,ReasonWithheld,Description,Type,Function,TollFree,Department,CountryPrefix,Address,Note,Email,License,LicensedBy,TaxStatus,Source,ID,AgencyID,Service,ExcludeFromWebsite,YearIncorporated,FEIN,AgencyOffersService,ID,ResourceID,FieldName,PreviousValue,UpdatedBy,
+String,String,String,String,String,true,String,String,true,String,String,String,String,true,String,String,String,String,A@A.AA,String,String,String,String,String,String,String,true,String,String,String,String,String,String,String,String,

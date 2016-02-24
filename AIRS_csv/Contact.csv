@@ -1,8 +1,8 @@
-﻿ID,AgencyID,ServiceID,Department,Title,Name,Nickname,ContactEmail,ContactType,FK_Agency,FK_ResourceInfo,FK_Site,FK_SiteService
-String,String,String,String,String,String,String,A@A.AA,String,,1,,
-String,String,String,String,String,String,String,A@A.AA,String,1,,,
-String,String,String,String,String,String,String,A@A.AA,String,,,1,
-String,String,String,String,String,String,String,A@A.AA,String,,2,,
-String,String,String,String,String,String,String,A@A.AA,String,,,,1
-String,String,String,String,String,String,String,A@A.AA,String,,3,,
-String,String,String,String,String,String,String,A@A.AA,String,,4,,
+﻿ID,AgencyID,ServiceID,Department,Title,Name,Nickname,ContactEmail,Phone,Confidential,ReasonWithheld,Description,Type,Function,TollFree,Department,CountryPrefix,ContactType,FK_Agency,FK_ResourceInfo,FK_Site,FK_SiteService
+String,String,String,String,String,String,String,A@A.AA,String,true,String,String,String,String,true,String,String,String,,1,,
+String,String,String,String,String,String,String,A@A.AA,String,true,String,String,String,String,true,String,String,String,1,,,
+String,String,String,String,String,String,String,A@A.AA,String,true,String,String,String,String,true,String,String,String,,,1,
+String,String,String,String,String,String,String,A@A.AA,String,true,String,String,String,String,true,String,String,String,,2,,
+String,String,String,String,String,String,String,A@A.AA,String,true,String,String,String,String,true,String,String,String,,,,1
+String,String,String,String,String,String,String,A@A.AA,String,true,String,String,String,String,true,String,String,String,,3,,
+String,String,String,String,String,String,String,A@A.AA,String,true,String,String,String,String,true,String,String,String,,4,,
