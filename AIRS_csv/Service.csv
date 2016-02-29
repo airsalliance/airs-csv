@@ -1,2 +1,2 @@
-﻿ID,Title,Description,AgencyID,SiteID,ServiceGroupID,WaitTime,ID,ResourceID,FieldName,PreviousValue,UpdatedBy
+﻿Service_ID,Service_Title,Service_Description,Service_AgencyID,Service_SiteID,Service_ServiceGroupID,Service_WaitTime,ServiceMetaData_ID,ServiceMetaData_ResourceID,ServiceMetaData_FieldName,ServiceMetaData_PreviousValue,ServiceMetaData_UpdatedBy
 String,String,String,String,String,String,String,String,String,String,String,String

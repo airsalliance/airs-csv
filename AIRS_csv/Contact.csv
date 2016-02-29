@@ -1,4 +1,4 @@
-﻿ID,AgencyID,ServiceID,Department,Title,Name,Nickname,ContactEmail,Phone,Confidential,ReasonWithheld,Description,Type,Function,TollFree,Department,CountryPrefix,ContactType,FK_Agency,FK_ResourceInfo,FK_Site,FK_SiteService
+﻿Contact_ID,Contact_AgencyID,Contact_ServiceID,Contact_Department,Contact_Title,Contact_Name,Contact_Nickname,Contact_ContactEmail,ContactPhone_Phone,ContactPhone_Confidential,ContactPhone_ReasonWithheld,ContactPhone_Description,ContactPhone_Type,ContactPhone_Function,ContactPhone_TollFree,ContactPhone_Department,ContactPhone_CountryPrefix,Contact_ContactType,Contact_FK_Agency,Contact_FK_ResourceInfo,Contact_FK_Site,Contact_FK_SiteService
 String,String,String,String,String,String,String,A@A.AA,String,true,String,String,String,String,true,String,String,String,,1,,
 String,String,String,String,String,String,String,A@A.AA,String,true,String,String,String,String,true,String,String,String,1,,,
 String,String,String,String,String,String,String,A@A.AA,String,true,String,String,String,String,true,String,String,String,,,1,
