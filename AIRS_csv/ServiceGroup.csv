@@ -1,2 +1,2 @@
-﻿ID,Name,ProgramName,Description,
-String,String,String,String,
+﻿ServiceGroup_ID,ServiceGroup_Name,ServiceGroup_ProgramName,ServiceGroup_Description
+String,String,String,String
